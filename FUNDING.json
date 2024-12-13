@@ -5,6 +5,9 @@
     },
     "sepolia": {
       "ownedBy": "0xEF4B994f97092fD22B8a880c47F053910788471b"
+    },
+    "filecoin": {
+      "ownedBy": "0xB8159bDae07039943F5865d6FC27d10f80E18800"
     }
   }
 }
